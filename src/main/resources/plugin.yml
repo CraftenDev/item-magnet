@@ -1,0 +1,4 @@
+name: ItemMagnet
+version: VERSION
+main: de.craften.plugins.itemmagnet.ItemMagnet
+author: leMaik
